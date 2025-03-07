@@ -25,4 +25,4 @@ jobs:
         run: npm install
         
       - name: Run tests
-        run: node test.js C:\Users\knabbasi\Desktop\myproject
+        run: node test.js 
