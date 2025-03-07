@@ -6,7 +6,7 @@ on:
       - main  # Trigger workflow on push to the 'main' branch
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   build:
